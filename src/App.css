@@ -1,0 +1,11 @@
+#box{
+  height: 400px;
+  width: 400px;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(120deg,rgb(55, 238, 55),yellow,red);
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px crimson;
+}
