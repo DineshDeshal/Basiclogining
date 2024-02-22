@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 
 function App() {
-  const p = [
+  const p = [// p is a array that`s contain objects and here objects contain some details of users
     {
       name: 'Dinesh',
       passward: 1230,
